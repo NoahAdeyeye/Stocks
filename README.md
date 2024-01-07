@@ -37,4 +37,4 @@ This project relies on the following Python libraries:
 - `numpy`: For numerical operations.
 
 
-Experiment and enhance the project according to your preferences and stocks!
+Experiment!
